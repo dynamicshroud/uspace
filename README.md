@@ -9,3 +9,9 @@ uspace is an alternative for coreutils
 - mov [src] [dst] (move files)
 - rem [files] (remove files)
 - wd (get working directory)
+
+
+## how to install
+```
+sudo make install
+```
